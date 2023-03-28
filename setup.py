@@ -3,7 +3,7 @@ import setuptools
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
-PROJECT_NAME = "Perceptron Package"
+PROJECT_NAME = "Perceptron_package"
 USER_NAME = "kapoorparas09"
 
 setuptools.setup(
